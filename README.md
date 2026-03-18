@@ -6,7 +6,7 @@ Contact
  
 BOM
 Component	Qty
-Seeed XIAO SAMD21	1x
+Seeed XIAO RP2040  1x
 MX-Style switches	3x
 Blank DSA keycaps	3x
 Custom PCB	1x
@@ -27,11 +27,13 @@ Firmware Setup
 This project runs on KMK Firmware. To change the use of your keys, update the code.py.
 
 Some Images: 
+<img width="1381" height="885" alt="SCH" src="https://github.com/user-attachments/assets/8d6ae96b-7467-4936-b845-2a3a0c6cebb3" />
+<img width="1236" height="622" alt="PCB" src="https://github.com/user-attachments/assets/c40e40e3-ddfb-4c0e-9304-b26bfe1adec2" />
+<img width="1738" height="557" alt="Cad" src="https://github.com/user-attachments/assets/42a283a4-a84a-461b-8e6a-10f96e335df6" />
 
 
- <img width="1738" height="557" alt="Cad" src="https://github.com/user-attachments/assets/069d40bf-99a5-426b-9e47-a0cab541f894" />
- <img width="1250" height="503" alt="PCB" src="https://github.com/user-attachments/assets/eb9f404c-b4e5-4e62-963c-cc1d909acb08" />
- <img width="797" height="443" alt="Schematic" src="https://github.com/user-attachments/assets/0d69d426-d2a8-46a8-bf7c-111aa052f3fa" />
+
+
 
 
 
