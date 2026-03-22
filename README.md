@@ -31,7 +31,8 @@ https://cad.onshape.com/documents/f9f7cc88c7e9a31f9a8d3ce1/w/59849105b4bb7d10207
 
 Some Images: 
 <img width="1381" height="885" alt="SCH" src="https://github.com/user-attachments/assets/8d6ae96b-7467-4936-b845-2a3a0c6cebb3" />
-<img width="1494" height="723" alt="Pcb" src="https://github.com/user-attachments/assets/4e501559-7e3b-43eb-a730-0312c01542f3" />
+<img width="1308" height="639" alt="PCB (2)" src="https://github.com/user-attachments/assets/566d0525-38d5-4733-84d9-4e0145d6bf51" />
+
 <img width="1673" height="752" alt="Cad" src="https://github.com/user-attachments/assets/275dfd7f-db18-405a-a405-0619e004214c" />
 
 
