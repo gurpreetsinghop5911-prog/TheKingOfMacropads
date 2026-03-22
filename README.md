@@ -26,6 +26,9 @@ Restart: Hold the right key (D10) for 2 seconds to restart the system.
 Firmware Setup
 This project runs on KMK Firmware. To change the use of your keys, update the code.py.
 
+Onshape Link: 
+https://cad.onshape.com/documents/f9f7cc88c7e9a31f9a8d3ce1/w/59849105b4bb7d1020788235/e/5c61370c1efd15599b636180
+
 Some Images: 
 <img width="1381" height="885" alt="SCH" src="https://github.com/user-attachments/assets/8d6ae96b-7467-4936-b845-2a3a0c6cebb3" />
 <img width="1494" height="723" alt="Pcb" src="https://github.com/user-attachments/assets/4e501559-7e3b-43eb-a730-0312c01542f3" />
