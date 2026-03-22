@@ -32,8 +32,7 @@ https://cad.onshape.com/documents/f9f7cc88c7e9a31f9a8d3ce1/w/59849105b4bb7d10207
 Some Images: 
 <img width="1381" height="885" alt="SCH" src="https://github.com/user-attachments/assets/8d6ae96b-7467-4936-b845-2a3a0c6cebb3" />
 <img width="1494" height="723" alt="Pcb" src="https://github.com/user-attachments/assets/4e501559-7e3b-43eb-a730-0312c01542f3" />
-
-<img width="1738" height="557" alt="Cad" src="https://github.com/user-attachments/assets/42a283a4-a84a-461b-8e6a-10f96e335df6" />
+<img width="1673" height="752" alt="Cad" src="https://github.com/user-attachments/assets/275dfd7f-db18-405a-a405-0619e004214c" />
 
 
 
